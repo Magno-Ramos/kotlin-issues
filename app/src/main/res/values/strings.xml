@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Issues</string>
+    <string name="btn_link_text">Ver no Github</string>
+</resources>
